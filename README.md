@@ -19,7 +19,7 @@ Links to databases from the database section of my talk:
 
 ## Genome Assembly
 
-Slides - [genome_assembly.ppt](genome_assembly.ppt)
+Slides - [genome_assembly.ppt](genome_assembly.pptx)
 
 References and Links:
 
