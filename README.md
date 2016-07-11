@@ -17,6 +17,16 @@ Links to databases from the database section of my talk:
 8. TAIR [http://arabidopsis.org](http://arabidopsis.org)
 9. AraPort [http://araport.org](http://araport.org)
 
+## Software Carpentry
+
+Slides - [swc.pptx](swc.pptx)
+
+Links:
+
+1. SWC Paper [f1000research.com/articles/3-62/v1](f1000research.com/articles/3-62/v1)
+2. Hattie Effect Size Research: [http://tinyurl.com/hattie-effect-sizes](http://tinyurl.com/hattie-effect-sizes)
+3. SWC Website [http://software-carpentry.org](http://software-carpentry.org)
+
 ## Genome Assembly
 
 Slides - [genome_assembly.ppt](genome_assembly.pptx)
