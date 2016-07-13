@@ -33,7 +33,6 @@ Slides - [genome_assembly.ppt](genome_assembly.pptx)
 
 References and Links:
 
-1. Mike Schatz's tutorial slides - [http://schatzlab.cshl.edu/teaching/2012/CSHL.Sequencing/Whole%20Genome%20Assembly%20and%20Alignment.pdf](http://schatzlab.cshl.edu/teaching/2012/CSHL.Sequencing/Whole%20Genome%20Assembly%20and%20Alignment.pdf)
 2. Application of 'next-generation' sequencing technologies to microbial genetics - Daniel MacLean, Jonathan D. G. Jones1 & David J. Studholme (2009) Nature Reviews Microbiology 7, 287-296
 2. Current challenges in de novo plant genome sequencing and assembly - Schatz MC, Witkowski, McCombie, WR (2012) Genome Biology. 12:243
 2. Assembly of Large Genomes using Second Generation Sequencing - Schatz MC, Delcher AL, Salzberg SL (2010) Genome Research. 20:1165-1173.
@@ -44,6 +43,28 @@ References and Links:
 2. Hybrid error correction and de novo assembly of single-molecule sequencing reads.  - Koren, S, Schatz, MC, et al. (2012) Nature Biotechnology. doi:10.1038/nbt.2280
 3. Bandage [https://rrwick.github.io/Bandage/](https://rrwick.github.io/Bandage/)
 4. Busco [http://busco.ezlab.org/](http://busco.ezlab.org/)
+
+
+## RNASeq 
+
+Slides - [rna_seq.pptx](rna_seq.pptx)
+
+References and Links:
+
+1. Alignment tools - [http://wwwdev.ebi.ac.uk/fg/hts_mappers/](http://wwwdev.ebi.ac.uk/fg/hts_mappers/)
+2. Tophat - [http://ccb.jhu.edu/software/tophat/index.shtml](http://ccb.jhu.edu/software/tophat/index.shtml)
+3. Bowtie - [http://bowtie-bio.sourceforge.net/](http://bowtie-bio.sourceforge.net/)
+4. SAMTools - [http://samtools.sourceforge.net/](http://samtools.sourceforge.net/)
+5. Integrative Genomics Viewer [https://www.broadinstitute.org/igv/](https://www.broadinstitute.org/igv/)
+6. rseqc [http://rseqc.sourceforge.net](http://rseqc.sourceforge.net)
+7. Trinity [http://github.com/trinityrnaseq](http://github.com/trinityrnaseq)
+8. TransRate [http://hibberdlab.com/transrate/](http://hibberdlab.com/transrate/)
+9. Cufflinks [http://cole-trapnell-lab.github.io/cufflinks/](http://cole-trapnell-lab.github.io/cufflinks/)
+10. CummeRbund [http://compbio.mit.edu/cummeRbund/](http://compbio.mit.edu/cummeRbund/)
+11. DESeq [http://www-huber.embl.de/users/anders/DESeq/](http://www-huber.embl.de/users/anders/DESeq/)
+12. edgeR [http://www.bioconductor.org/packages/release/bioc/html/edgeR.html]
+13. Schurch et al Evaluation of tools for differential gene expression analysis by RNA-seq on a 48 biological replicate experiment  [http://arxiv.org/pdf/1505.02017v2.pdf](http://arxiv.org/pdf/1505.02017v2.pdf)
+14. Hansen et al. “Sequencing Technology Does Not Eliminate Biological Variability.” Nature Biotechnology 29, no. 7 (2011): 572–573. Power analysis for RNA-seq experiments [http://euler.bc.edu/marthlab/scotty/scotty.php](http://euler.bc.edu/marthlab/scotty/scotty.php)
 
 ## Metagenomics 
 
@@ -79,3 +100,11 @@ References and Links:
 26. Bioconductor [https://www.bioconductor.org/](https://www.bioconductor.org/)
 27. Cytoscape [http://www.cytoscape.org/](http://www.cytoscape.org/)
 28. MeV [http://www.tm4.org/mev.html](http://www.tm4.org/mev.html)
+
+## Acknowledgements
+
+These slides draw from previous slides from Mike Schatz's tutorial slides - [http://schatzlab.cshl.edu/teaching/2012/CSHL.Sequencing/Whole%20Genome%20Assembly%20and%20Alignment.pdf](http://schatzlab.cshl.edu/teaching/2012/CSHL.Sequencing/Whole%20Genome%20Assembly%20and%20Alignment.pdf) and [https://bioinformatics.ca/](https://bioinformatics.ca/) workshops [https://bioinformatics.ca/workshops/2015/informatics-rna-seq-analysis-2015#material](https://bioinformatics.ca/workshops/2015/informatics-rna-seq-analysis-2015#material) and [https://bioinformatics.ca/workshops/2015/analysis-metagenomic-data-2015](https://bioinformatics.ca/workshops/2015/analysis-metagenomic-data-2015)
+
+## Licence
+CC Attribution-Share Alike 4 International
+See [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
