@@ -103,7 +103,12 @@ References and Links:
 
 ## Acknowledgements
 
-These slides draw from previous slides from Mike Schatz's tutorial slides - [http://schatzlab.cshl.edu/teaching/2012/CSHL.Sequencing/Whole%20Genome%20Assembly%20and%20Alignment.pdf](http://schatzlab.cshl.edu/teaching/2012/CSHL.Sequencing/Whole%20Genome%20Assembly%20and%20Alignment.pdf) and [https://bioinformatics.ca/](https://bioinformatics.ca/) workshops [https://bioinformatics.ca/workshops/2015/informatics-rna-seq-analysis-2015#material](https://bioinformatics.ca/workshops/2015/informatics-rna-seq-analysis-2015#material) and [https://bioinformatics.ca/workshops/2015/analysis-metagenomic-data-2015](https://bioinformatics.ca/workshops/2015/analysis-metagenomic-data-2015)
+These slides draw from previous work including from Mike Schatz's tutorial
+[http://schatzlab.cshl.edu/teaching/2012/CSHL.Sequencing/Whole%20Genome%20Assembly%20and%20Alignment.pdf](http://schatzlab.cshl.edu/teaching/2012/CSHL.Sequencing/Whole%20Genome%20Assembly%20and%20Alignment.pdf) 
+
+and [https://bioinformatics.ca/](https://bioinformatics.ca/) workshops 
+[https://bioinformatics.ca/workshops/2015/informatics-rna-seq-analysis-2015#material](https://bioinformatics.ca/workshops/2015/informatics-rna-seq-analysis-2015#material) and 
+[https://bioinformatics.ca/workshops/2015/analysis-metagenomic-data-2015](https://bioinformatics.ca/workshops/2015/analysis-metagenomic-data-2015)
 
 ## Licence
 CC Attribution-Share Alike 4 International
